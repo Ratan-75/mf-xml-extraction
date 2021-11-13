@@ -1,3 +1,3 @@
 # mf-xml-extraction
 
-Leveraging the API of Micro Focus software products Versios as well as lifecycle information in XML Responses and extraction Key attributes
+Leveraging the API of Micro Focus software products Versions as well as lifecycle information in XML Responses and extraction Key attributes
