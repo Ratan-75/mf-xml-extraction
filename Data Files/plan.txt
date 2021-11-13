@@ -1,0 +1,15 @@
+declare topushList
+
+setup array of product id's
+
+define function that has i/p param : product id ka array / individual element of product id array
+
+inside the function make a https request, wait for response and convert the response from XML to JSON
+
+once converted return a new promise with resolve value of the converted response
+
+define another function that takes in the converted response and initiates the attributes & grab required data
+
+and push attributes with associated values to the topushList
+
+Iterate through the product array and call both functions everytime for individual productid array elements 
